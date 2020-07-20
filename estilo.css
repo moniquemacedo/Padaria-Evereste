@@ -1,0 +1,131 @@
+body{
+	background: #F8F8FF;
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+#menu{
+	background: #5F9EA0;
+	padding: 15px;
+	height: 50px;
+	text-align: center;
+	margin-top: -10px;
+}
+
+a{
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 17px;
+	margin: 7px;
+	font-size: 17px;
+}
+
+h1{
+	text-align: center;
+	background: black;
+	height: 50px;
+	color: White;
+	margin-top: -10px;
+	font-size: 26px;
+	font-weight: bold;
+
+}
+
+h2{
+	padding: 7px;
+	background: #C0C0C0;
+	height: 30px;
+	color: white;
+	margin-top: -10px;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+p{
+	padding: 15px;
+
+}
+
+
+.img{
+	width: 920px;
+	border: 10px solid #D2B48C;
+	margin: 15px;
+	margin-left: 200px;
+}
+
+.img-encomenda{
+	width: 620px;
+	border: 10px solid #D2B48C;
+	margin: 15px;
+	margin-left: 350px;
+}
+
+.img-padaria{
+ 	margin-top: 50px;
+ 	margin-left: 200px;
+ 	border: 10px solid #D2B48C;
+}
+
+.img-padarias{
+ 	margin-top: 50px;
+ 	margin-left: 30px;
+ 	border: 10px solid #D2B48C;	
+}
+
+#contato{
+	background: black;
+	color: white;
+}
+
+#principal{
+	text-align: center;
+
+}
+
+.prin{
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+}
+
+.prins{
+	float: left;
+	width: 500px;
+	margin: 85px;
+	padding: 10px;
+	font-size: 18px
+
+}
+
+.sanduiche{
+	float: right;
+	width: 400px;
+	margin: 70px;
+	padding: 10px;
+
+}
+
+#campanha{
+	border: 1px solid #D2B48C;
+	background: #D2B48C;
+	margin: 10px;
+	width: 1300px;
+	margin-top: 70px;
+	margin-bottom: 30px;
+}
+
+#clear{
+	clear: both;
+}
+
+h4{
+	font-size: 30px;
+}
+
+#saiba-mais{
+	font-size: 18px;
+	margin: -1px;
+	color: white;
+	border: 1px solid white;	
+}
