@@ -9,6 +9,7 @@ body{
 	height: 50px;
 	text-align: center;
 	margin-top: -10px;
+	width: 99%;
 }
 
 a{
@@ -113,6 +114,7 @@ p{
 	width: 1300px;
 	margin-top: 70px;
 	margin-bottom: 30px;
+	width: 100%;
 }
 
 #clear{
